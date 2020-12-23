@@ -1,0 +1,12 @@
+// 1.
+document.body.innerHTML = '바꿀 값';
+
+// 2. 
+let blueElement = document.querySelector('.blue');
+blueElement.style.backgroundColor = 'blue';
+
+// 3.
+createElement(tagName)
+
+//4.
+const 변수명 = document.getElementsByClassName('클래스명')[0];
